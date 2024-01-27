@@ -1,5 +1,4 @@
 <script>
-  import "leaflet/dist/leaflet.css";
   import deps from "$lib/deps.json";
   import { onMount } from "svelte";
   import { getToastStore } from "@skeletonlabs/skeleton";
