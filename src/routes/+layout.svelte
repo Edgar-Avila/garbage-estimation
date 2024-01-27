@@ -22,6 +22,7 @@
       <svelte:fragment slot="trail">
         <a class="btn btn-sm variant-ghost-surface" href="/about">Acerca de</a>
         <a class="btn btn-sm variant-ghost-surface" href="/prediccion">Predicción</a>
+        <a class="btn btn-sm variant-ghost-surface" href="/map">Mapa</a>
       </svelte:fragment>
     </AppBar>
   </svelte:fragment>
